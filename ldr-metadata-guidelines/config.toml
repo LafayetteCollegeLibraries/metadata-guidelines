@@ -2,3 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "LDR Metadata Guidelines"
 theme = "book"
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookDateFormat = 'Jan 2, 2006'
+  BookMenuBundle = '/menu'
