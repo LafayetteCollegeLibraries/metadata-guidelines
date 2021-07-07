@@ -1,0 +1,30 @@
+---
+title: "Gettingstarted"
+date: 2021-07-07T13:45:00-07:00
+draft: true
+---
+
+# I. GETTING STARTED
+
+## Metadata Templates
+
+There is a general template available for creating batch metadata for resources that are to be ingested to the Lafayette Digital Repository. If you do not have a metadata template for your digital project or collection, please contact the Digital Repository Librarian to acquire one. These Guidelines are intended for use with the template or in the repository application user dashboard.
+
+## General Rules for Entering Data into CSV Metadata Templates
+
+- Review the list of metadata properties prior to starting data entry, paying particular attention to those properties that are designated as “Required.” Required properties must contain a value, if one is known.
+- **<u>Leave blank</u>** any non-required properties for which there is no available data. \
+**DO NOT** use a question mark, or terms such as “unknown” or “n/a”
+- When entering multiple values to a single property (for example assigning multiple keywords or multiple creators to an item), separate each value with a pipe | character \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example of using multiple keywords:** emotion|autobiographical memory \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example of multiple creators:** Lantz, K.|Jones, S. A.
+- **DO NOT** use ampersands ("&") unless it is part of a proper name or logo. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example of a proper name:** A&P supermarkets
+- **Avoid** using abbreviations in your data entry. Writing out full words improves item discoverability and prevents confusion.
+- When entering a personal name: \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; use the name format **Last, First Middle** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; include multiple parts (*e.g.* von, de la) as part of the last name \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; include all parts of a hyphenated name as the last name
+- Digital projects conducted under the supervision of Faculty or Archives & Special Collections may have additional, supplementary metadata creation guidelines.
+
+## Contact Information
