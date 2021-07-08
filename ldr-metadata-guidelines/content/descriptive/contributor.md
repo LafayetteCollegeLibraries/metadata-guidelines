@@ -17,8 +17,8 @@ Use this property to enter the names of entities that contributed to the creatio
 - Enter information for all known Contributors, with multiple names separated by a pipe character | and no spaces.
 
 - When possible, consult an authority file to locate the controlled form of the name \
-&rarr; for example, the [Library of Congress Name Authority File](https://authorities.loc.gov/) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Getty Research Institute [Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/)
+&rarr; for example, the <u>[Library of Congress Name Authority File](https://authorities.loc.gov/)</u> \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Getty Research Institute <u>[Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/)</u>
 
 - When entering a personal name: \
 &rarr; use the name format **Last, First Middle** \
@@ -32,9 +32,9 @@ Use this property to enter the names of entities that contributed to the creatio
 &rarr; recording engineers
 
 - In many cases, whether an entity should be entered in the Creator or Contributor property depends on the item or work being described. \
-&rarr; for example, a photographer would be the Creator of a photograph or slide \
-&rarr; but, a photographer would be a Contributor for a postcard or yearbook
+&rarr; for example, a photographer would be the <u>Creator</u> of a photograph or slide \
+&rarr; but, a photographer would be a <u>Contributor</u> for a postcard or yearbook
 
 - For oral history interviews of any type (audio, transcript, or video), the Contributor is the person conducting the interview. The interviewee is the Creator. The purpose of the oral history is to document the interviewee’s story and experiences. The interviewer’s secondary role, as a Contributor, is to facilitate the telling of those experiences in the oral history interview.
 
-- **DO NOT** enter the name of a digitization technician, Excel Scholar, or student worker/assistant in this property.
+- <u>**DO NOT**</u> enter the name of a digitization technician, Excel Scholar, or student worker/assistant in this property.

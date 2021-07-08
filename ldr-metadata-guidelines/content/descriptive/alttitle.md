@@ -8,7 +8,7 @@ draft: true
 
 | Condition  | Value |
 |-------------|---------------------------|
-| Definition  | An alternative name for the resource. Any form of the title used as a substitute or alternative to the formal title of the resource. ([DCMI](http://purl.org/dc/terms/alternative)) |
+| Definition  | An alternative name for the resource. Any form of the title used as a substitute or alternative to the formal title of the resource. (<u>[DCMI](http://purl.org/dc/terms/alternative)</u>) |
 | Required?   | No                        |
 | Repeatable? | Yes                        |
 

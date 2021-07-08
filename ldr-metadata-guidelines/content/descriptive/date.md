@@ -14,7 +14,7 @@ draft: true
 
 # Guidelines
 
-- Record the date in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)/[EDTF](https://www.loc.gov/standards/datetime/) format. \
+- Record the date in <u>[ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)</u>/<u>[EDTF](https://www.loc.gov/standards/datetime/)</u> format. \
 &rarr; The LDR application will display EDTF date in a human-readable format in the
  public-facing user interface.
 
