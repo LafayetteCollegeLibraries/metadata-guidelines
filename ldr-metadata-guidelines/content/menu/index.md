@@ -5,4 +5,35 @@ headless: true
 - [I. Getting Started]({{< relref "gettingstarted/" >}})
 - [II. Descriptive Metadata]({{< relref "descriptive/" >}})
   - [Abstract]({{< relref "descriptive/abstract" >}})
+  - [Academic Department]({{< relref "descriptive/acadep" >}})
+  - [Associated Date]({{< relref "descriptive/asocdate" >}})
+  - [Alternative Title]({{< relref "descriptive/alttitle" >}})
+  - [Bibliographic Citation]({{< relref "descriptive/bibcite" >}})
+  - [Contributor]({{< relref "descriptive/contributor" >}})
+  - [Creator]
+  - [Date]
+  - [Date Scope Note]
+  - [Description]
+  - [Division]
+  - [Donor]
+  - [Editor]
+  - [Extent]
+  - [Inscription]
+  - [Issued]
+  - [Keyword]
+  - [Language]
+  - [Location]
+  - [Organization]
+  - [Physical Medium]
+  - [Publisher]
+  - Related Resource
+  - Repository Location
+  - Requested By
+  - Research Assistance
+  - Resource Type
+  - Source
+  - Sponsor
+  - Subject
+  - Subtitle
+  - Title
 - [III. Administrative Metadata]({{< relref "administrative/" >}})

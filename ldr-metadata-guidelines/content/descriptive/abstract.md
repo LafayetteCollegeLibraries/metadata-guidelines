@@ -6,7 +6,7 @@ draft: true
 
 # Abstract
 
-|   |  |
+| Condition  | Value |
 |-------------|---------------------------|
 | Definition  | A summary of the resource |
 | Required?   | No                        |
