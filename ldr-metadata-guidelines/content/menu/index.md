@@ -10,14 +10,14 @@ headless: true
   - [Alternative Title]({{< relref "descriptive/alttitle" >}})
   - [Bibliographic Citation]({{< relref "descriptive/bibcite" >}})
   - [Contributor]({{< relref "descriptive/contributor" >}})
-  - [Creator]
-  - [Date]
-  - [Date Scope Note]
-  - [Description]
-  - [Division]
-  - [Donor]
-  - [Editor]
-  - [Extent]
+  - [Creator]({{< relref "descriptive/creator" >}})
+  - [Date]({{< relref "descriptive/date" >}})
+  - [Date Scope Note]({{< relref "descriptive/datascopenote" >}})
+  - [Description]({{< relref "descriptive/desc" >}})
+  - [Division]({{< relref "descriptive/division" >}})
+  - [Donor]({{< relref "descriptive/donor" >}})
+  - [Editor]({{< relref "descriptive/editor" >}})
+  - [Extent]({{< relref "descriptive/extent" >}})
   - [Inscription]
   - [Issued]
   - [Keyword]
