@@ -37,3 +37,6 @@ headless: true
   - [Subtitle]({{< relref "descriptive/subtitle" >}})
   - [Title]({{< relref "descriptive/title" >}})
 - [III. Administrative Metadata]({{< relref "administrative/" >}})
+  - [Note]({{< relref "administrative/note" >}})
+  - [Rights Holder]({{< relref "administrative/rightsholder" >}})
+  - [Rights Statement]({{< relref "administrative/rightsstatement" >}})
