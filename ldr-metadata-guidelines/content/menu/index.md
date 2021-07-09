@@ -18,22 +18,22 @@ headless: true
   - [Donor]({{< relref "descriptive/donor" >}})
   - [Editor]({{< relref "descriptive/editor" >}})
   - [Extent]({{< relref "descriptive/extent" >}})
-  - [Inscription]
-  - [Issued]
-  - [Keyword]
-  - [Language]
-  - [Location]
-  - [Organization]
-  - [Physical Medium]
-  - [Publisher]
-  - Related Resource
-  - Repository Location
-  - Requested By
-  - Research Assistance
-  - Resource Type
-  - Source
-  - Sponsor
-  - Subject
-  - Subtitle
-  - Title
+  - [Inscription]({{< relref "descriptive/inscription" >}})
+  - [Issued]({{< relref "descriptive/issued" >}})
+  - [Keyword]({{< relref "descriptive/keyword" >}})
+  - [Language]({{< relref "descriptive/language" >}})
+  - [Location]({{< relref "descriptive/location" >}})
+  - [Organization]({{< relref "descriptive/organization" >}})
+  - [Physical Medium]({{< relref "descriptive/physmed" >}})
+  - [Publisher]({{< relref "descriptive/publisher" >}})
+  - [Related Resource]({{< relref "descriptive/relresource" >}})
+  - [Repository Location]({{< relref "descriptive/reploc" >}})
+  - [Requested By]({{< relref "descriptive/reqby" >}})
+  - [Research Assistance]({{< relref "descriptive/resassist" >}})
+  - [Resource Type]({{< relref "descriptive/restype" >}})
+  - [Source]({{< relref "descriptive/source" >}})
+  - [Sponsor]({{< relref "descriptive/sponsor" >}})
+  - [Subject]({{< relref "descriptive/subject" >}})
+  - [Subtitle]({{< relref "descriptive/subtitle" >}})
+  - [Title]({{< relref "descriptive/title" >}})
 - [III. Administrative Metadata]({{< relref "administrative/" >}})
