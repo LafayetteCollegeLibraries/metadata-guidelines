@@ -2,8 +2,10 @@
 headless: true
 ---
 
-- [I. Getting Started]({{< relref "gettingstarted/" >}})
-- [II. Descriptive Metadata]({{< relref "descriptive/" >}})
+- **[I. Getting Started]({{< relref "gettingstarted/" >}})**
+<br />
+
+- **[II. Descriptive Metadata]({{< relref "descriptive/" >}})**
   - [Abstract]({{< relref "descriptive/abstract" >}})
   - [Academic Department]({{< relref "descriptive/acadep" >}})
   - [Associated Date]({{< relref "descriptive/asocdate" >}})
@@ -36,7 +38,9 @@ headless: true
   - [Subject]({{< relref "descriptive/subject" >}})
   - [Subtitle]({{< relref "descriptive/subtitle" >}})
   - [Title]({{< relref "descriptive/title" >}})
-- [III. Administrative Metadata]({{< relref "administrative/" >}})
+<br />
+
+- **[III. Administrative Metadata]({{< relref "administrative/" >}})**
   - [Note]({{< relref "administrative/note" >}})
   - [Rights Holder]({{< relref "administrative/rightsholder" >}})
   - [Rights Statement]({{< relref "administrative/rightsstatement" >}})
