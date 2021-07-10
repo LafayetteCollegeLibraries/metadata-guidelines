@@ -40,3 +40,4 @@ headless: true
   - [Note]({{< relref "administrative/note" >}})
   - [Rights Holder]({{< relref "administrative/rightsholder" >}})
   - [Rights Statement]({{< relref "administrative/rightsstatement" >}})
+  - [Standard Identifier]({{< relref "administrative/stdid" >}})
