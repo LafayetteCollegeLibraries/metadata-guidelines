@@ -1,0 +1,47 @@
+---
+headless: true
+---
+
+- **[I. Getting Started]({{< relref "gettingstarted/" >}})**
+<br />
+
+- **[II. Descriptive Metadata]({{< relref "descriptive/" >}})**
+  - [Abstract]({{< relref "descriptive/abstract" >}})
+  - [Academic Department]({{< relref "descriptive/acadep" >}})
+  - [Associated Date]({{< relref "descriptive/asocdate" >}})
+  - [Alternative Title]({{< relref "descriptive/alttitle" >}})
+  - [Bibliographic Citation]({{< relref "descriptive/bibcite" >}})
+  - [Contributor]({{< relref "descriptive/contributor" >}})
+  - [Creator]({{< relref "descriptive/creator" >}})
+  - [Date]({{< relref "descriptive/date" >}})
+  - [Date Scope Note]({{< relref "descriptive/datascopenote" >}})
+  - [Description]({{< relref "descriptive/desc" >}})
+  - [Division]({{< relref "descriptive/division" >}})
+  - [Donor]({{< relref "descriptive/donor" >}})
+  - [Editor]({{< relref "descriptive/editor" >}})
+  - [Extent]({{< relref "descriptive/extent" >}})
+  - [Inscription]({{< relref "descriptive/inscription" >}})
+  - [Issued]({{< relref "descriptive/issued" >}})
+  - [Keyword]({{< relref "descriptive/keyword" >}})
+  - [Language]({{< relref "descriptive/language" >}})
+  - [Location]({{< relref "descriptive/location" >}})
+  - [Organization]({{< relref "descriptive/organization" >}})
+  - [Physical Medium]({{< relref "descriptive/physmed" >}})
+  - [Publisher]({{< relref "descriptive/publisher" >}})
+  - [Related Resource]({{< relref "descriptive/relresource" >}})
+  - [Repository Location]({{< relref "descriptive/reploc" >}})
+  - [Requested By]({{< relref "descriptive/reqby" >}})
+  - [Research Assistance]({{< relref "descriptive/resassist" >}})
+  - [Resource Type]({{< relref "descriptive/restype" >}})
+  - [Source]({{< relref "descriptive/source" >}})
+  - [Sponsor]({{< relref "descriptive/sponsor" >}})
+  - [Subject]({{< relref "descriptive/subject" >}})
+  - [Subtitle]({{< relref "descriptive/subtitle" >}})
+  - [Title]({{< relref "descriptive/title" >}})
+<br />
+
+- **[III. Administrative Metadata]({{< relref "administrative/" >}})**
+  - [Note]({{< relref "administrative/note" >}})
+  - [Rights Holder]({{< relref "administrative/rightsholder" >}})
+  - [Rights Statement]({{< relref "administrative/rightsstatement" >}})
+  - [Standard Identifier]({{< relref "administrative/stdid" >}})

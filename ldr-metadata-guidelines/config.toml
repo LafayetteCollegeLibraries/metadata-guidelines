@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "LDR Metadata Guidelines"
 theme = "book"
 
+[markup]
+    defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   BookTheme = 'auto'
   BookToC = true
