@@ -1,0 +1,15 @@
+{
+  "name": "LDR Metadata Guidelines",
+  "short_name": "LDR Metadata Guidelines",
+  "start_url": "/metadata-guidelines/",
+  "scope": "/metadata-guidelines/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/metadata-guidelines/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
