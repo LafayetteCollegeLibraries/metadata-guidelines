@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://lafayettecollegelibraries.github.io/metadata-guidelines/"
 languageCode = "en-us"
 title = "LDR Metadata Guidelines"
 theme = "book"
