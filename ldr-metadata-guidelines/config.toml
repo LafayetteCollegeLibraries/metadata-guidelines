@@ -13,5 +13,6 @@ theme = "book"
 [params]
   BookTheme = 'auto'
   BookToC = true
+  BookRepo = 'https://github.com/LafayetteCollegeLibraries/metadata-guidelines'
   BookDateFormat = 'Jan 2, 2006'
   BookMenuBundle = '/menu'
