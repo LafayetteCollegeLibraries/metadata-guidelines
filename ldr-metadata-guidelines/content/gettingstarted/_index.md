@@ -55,3 +55,5 @@ e-mail: egloffn@lafayette.edu
 Digital Initiatives Developer \
 ph: (610) 330-5156 \
 e-mail: malantoa@lafayette.edu
+
+{{< /columns >}}
