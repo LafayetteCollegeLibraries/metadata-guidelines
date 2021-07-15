@@ -1,6 +1,6 @@
 baseURL = "https://lafayettecollegelibraries.github.io/metadata-guidelines/"
 languageCode = "en-us"
-title = "LDR Metadata Guidelines"
+title = "Lafayette Digital Repository Metadata Dictionary & Creation Guidelines"
 theme = "book"
 
 [markup]
