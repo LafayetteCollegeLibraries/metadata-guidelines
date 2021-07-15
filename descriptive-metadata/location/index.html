@@ -3,19 +3,20 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Categories" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://lafayettecollegelibraries.github.io/metadata-guidelines/categories/" />
+<meta name="description" content="Location #     Condition Value     Definition Spatial characteristics and/or cover of the resource content. Spatial topic and spatial applicability may be a named place or a location specified by its geographic coordinates.   Required? No   Repeatable? Yes    Guidelines #    Spatial coverage is about the content of item and refers to a geographic location, and not to proper place names such as buildings or human-created landmarks.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Location" />
+<meta property="og:description" content="Location #     Condition Value     Definition Spatial characteristics and/or cover of the resource content. Spatial topic and spatial applicability may be a named place or a location specified by its geographic coordinates.   Required? No   Repeatable? Yes    Guidelines #    Spatial coverage is about the content of item and refers to a geographic location, and not to proper place names such as buildings or human-created landmarks." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive-metadata/location/" /><meta property="article:section" content="descriptive metadata" />
+<meta property="article:published_time" content="2021-07-09T10:48:06-07:00" />
+<meta property="article:modified_time" content="2021-07-09T10:48:06-07:00" />
 
-<title>Categories | Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</title>
+<title>Location | Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</title>
 <link rel="manifest" href="/metadata-guidelines/manifest.json">
 <link rel="icon" href="/metadata-guidelines/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/metadata-guidelines/book.min.57f7f660871517a5bfcfb5e2de853d806f7e34d94ebd5f3f3bad62e9ddbae209.css" integrity="sha256-V/f2YIcVF6W/z7Xi3oU9gG9&#43;NNlOvV8/O61i6d264gk=" crossorigin="anonymous">
   <script defer src="/metadata-guidelines/flexsearch.min.js"></script>
   <script defer src="/metadata-guidelines/en.search.min.c0f0e47e5fca59c72dd6efd591a0e2693038a33c1f14a07f819538de30070e9a.js" integrity="sha256-wPDkfl/KWcct1u/VkaDiaTA4ozwfFKB/gZU43jAHDpo=" crossorigin="anonymous"></script>
-<link rel="alternate" type="application/rss+xml" href="https://lafayettecollegelibraries.github.io/metadata-guidelines/categories/index.xml" title="Lafayette Digital Repository Metadata Dictionary & Creation Guidelines" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -97,7 +98,7 @@ https://github.com/alex-shpak/hugo-book
 </li>
 <li><a href="/metadata-guidelines/descriptive-metadata/language/">Language</a>
 </li>
-<li><a href="/metadata-guidelines/descriptive-metadata/location/">Location</a>
+<li><a href="/metadata-guidelines/descriptive-metadata/location/"class=active>Location</a>
 </li>
 <li><a href="/metadata-guidelines/descriptive-metadata/organization/">Organization</a>
 </li>
@@ -172,7 +173,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/metadata-guidelines/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Categories</strong>
+  <strong>Location</strong>
 
   <label for="toc-control">
     
@@ -185,29 +186,13 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <nav>
+  
+<nav id="TableOfContents">
   <ul>
-  
-    
-    <li class="book-section-flat">
-      <strong>Categories</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
-    
-    <li class="book-section-flat">
-      <strong>Tags</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
+    <li><a href="#guidelines">Guidelines</a></li>
   </ul>
 </nav>
+
 
 
   </aside>
@@ -217,9 +202,55 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  
-
-  
+  <article class="markdown"><h1 id="location">
+  Location
+  <a class="anchor" href="#location">#</a>
+</h1>
+<table>
+<thead>
+<tr>
+<th>Condition</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Definition</td>
+<td>Spatial characteristics and/or cover of the resource content. Spatial topic and spatial applicability may be a named place or a location specified by its geographic coordinates.</td>
+</tr>
+<tr>
+<td>Required?</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Repeatable?</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="guidelines">
+  Guidelines
+  <a class="anchor" href="#guidelines">#</a>
+</h2>
+<ul>
+<li>
+<p>Spatial coverage is about the <u>content</u> of item and refers to a geographic location, and not to proper place names such as buildings or human-created landmarks.</p>
+</li>
+<li>
+<p>In the repository Work dashboard, this property is configured to fetch controlled geographic location data from the <u><a href="http://www.geonames.org/" target="_blank">GeoNames webservice</a>
+</u>.<br>
+→ Enter the geographic location into the form, then select from the list retrieved from GeoNames. This populates the value with a URI for the location, which serves as linked geographic data.</p>
+</li>
+<li>
+<p>As an alternative to GeoNames, the LDR also supports Getty Thesaurus of <u><a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank">Geographic Names linked data service</a>
+</u>.<br>
+→ TGN is recommended as a controlled vocabulary source if the item or collection deals primarily with historical location information, for example political or geographic names that are no longer in existence.</p>
+</li>
+<li>
+<p>Proper names for buildings, neighborhoods, geographic regions, or other non- controlled location information can be entered in the Keyword property.</p>
+</li>
+</ul>
+</article>
  
       
 
@@ -244,6 +275,10 @@ https://github.com/alex-shpak/hugo-book
 
       
   
+  <div class="book-comments">
+
+</div>
+  
  
 
       <label for="menu-control" class="hidden book-menu-overlay"></label>
@@ -253,29 +288,13 @@ https://github.com/alex-shpak/hugo-book
     <aside class="book-toc">
       <div class="book-toc-content">
         
-  <nav>
+  
+<nav id="TableOfContents">
   <ul>
-  
-    
-    <li class="book-section-flat">
-      <strong>Categories</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
-    
-    <li class="book-section-flat">
-      <strong>Tags</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
+    <li><a href="#guidelines">Guidelines</a></li>
   </ul>
 </nav>
+
 
  
       </div>

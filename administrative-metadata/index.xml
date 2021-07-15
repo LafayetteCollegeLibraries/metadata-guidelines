@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Administrative on Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</title>
+    <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/</link>
+    <description>Recent content in Administrative on Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jul 2021 14:09:46 -0700</lastBuildDate><atom:link href="https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standard Identifier</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/standard-identifier/</link>
+      <pubDate>Sat, 10 Jul 2021 09:45:58 -0700</pubDate>
+      
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/standard-identifier/</guid>
+      <description>Standard Identifier #     Condition Value     Definition A URL or string conforming to a formal identification system, which provides an unambiguous reference to the resource.   Required? No   Repeatable? No    Guidelines #    The LDR accepts the following types of standard identifiers:
+ DOI ISBN ISSN    From the Work dashboard, use the drop-down menu to select a prefix for the identifier.</description>
+    </item>
+    
+    <item>
+      <title>Rights Statement</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/rights-statement/</link>
+      <pubDate>Fri, 09 Jul 2021 11:55:14 -0700</pubDate>
+      
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/rights-statement/</guid>
+      <description>Rights Statement #     Condition Value     Definition Rights statements express the copyright status of a Digital Object, as well as information about how you can access and re-use the objects.   Required? Yes   Repeatable? Yes    Guidelines #    Rights information may be found in the item itself, in the digital project documentation, or in accompanying or supplemental information.</description>
+    </item>
+    
+    <item>
+      <title>Rights Holder</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/rights-holder/</link>
+      <pubDate>Fri, 09 Jul 2021 11:52:46 -0700</pubDate>
+      
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/rights-holder/</guid>
+      <description>Rights Holder #     Condition Value     Definition A person or organization owning or managing rights over the resource.   Required? No   Repeatable? Yes    Guidelines #    Establishing the identity of the Rights Holders of an item helps when a user has a question about use, reproduction, or whom to contact regarding copyright of the item.</description>
+    </item>
+    
+    <item>
+      <title>Note</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/note/</link>
+      <pubDate>Fri, 09 Jul 2021 11:51:29 -0700</pubDate>
+      
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/note/</guid>
+      <description>Note #     Condition Value     Definition A property for information that cannot be entered or does not fit well in other elements and is intended for internal users only.   Required? No   Repeatable? Yes    Guidelines #  This property is not visible to public users, only to internal users. To be used for any information important to internal maintenance of records or relevant to the original items, such as administrative, digitization, or decision documentation.</description>
+    </item>
+    
+  </channel>
+</rss>
