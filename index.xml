@@ -14,10 +14,7 @@
       
       <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/standard-identifier/</guid>
       <description>Standard Identifier #     Condition Value     Definition A URL or string conforming to a formal identification system, which provides an unambiguous reference to the resource.   Required? No   Repeatable? No    Guidelines #    The LDR accepts the following types of standard identifiers:
-→ DOI
-→ ISBN
-→ ISSN
-  From the Work dashboard, use the drop-down menu to select a prefix for the identifier.</description>
+ DOI ISBN ISSN    From the Work dashboard, use the drop-down menu to select a prefix for the identifier.</description>
     </item>
     
     <item>
