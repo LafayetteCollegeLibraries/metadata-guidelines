@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- **[I. Getting Started]({{< relref "gettingstarted/" >}})**
+- **[I. Getting Started]({{< relref "getting started/" >}})**
 <br />
 
 - **II. Descriptive Metadata**
