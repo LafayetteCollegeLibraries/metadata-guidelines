@@ -1,5 +1,5 @@
 ---
-title: "Bibcite"
+title: "Bibliographic Citation"
 date: 2021-07-08T13:48:39-07:00
 draft: true
 ---

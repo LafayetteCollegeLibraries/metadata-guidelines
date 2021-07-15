@@ -1,5 +1,5 @@
 ---
-title: "Asocdate"
+title: "Associated Date"
 date: 2021-07-08T13:14:00-07:00
 draft: true
 ---

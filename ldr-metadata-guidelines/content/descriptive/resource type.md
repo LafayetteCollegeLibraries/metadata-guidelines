@@ -1,5 +1,5 @@
 ---
-title: "Restype"
+title: "Resource Type"
 date: 2021-07-09T11:14:44-07:00
 draft: true
 ---

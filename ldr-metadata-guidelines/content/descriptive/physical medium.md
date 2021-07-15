@@ -1,5 +1,5 @@
 ---
-title: "Physmed"
+title: "Physical Medium"
 date: 2021-07-09T11:01:56-07:00
 draft: true
 ---

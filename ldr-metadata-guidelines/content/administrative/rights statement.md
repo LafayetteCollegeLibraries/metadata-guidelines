@@ -1,5 +1,5 @@
 ---
-title: "Rightsstatement"
+title: "Rights Statement"
 date: 2021-07-09T11:55:14-07:00
 draft: true
 ---

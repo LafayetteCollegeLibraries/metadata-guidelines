@@ -1,5 +1,5 @@
 ---
-title: "Datascopenote"
+title: "Data Scope Note"
 date: 2021-07-08T15:32:15-07:00
 draft: true
 ---

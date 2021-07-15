@@ -1,5 +1,5 @@
 ---
-title: "Alttitle"
+title: "Alternative Title"
 date: 2021-07-08T13:42:28-07:00
 draft: true
 ---

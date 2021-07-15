@@ -1,5 +1,5 @@
 ---
-title: "Stdid"
+title: "Standard Identifier"
 date: 2021-07-10T09:45:58-07:00
 draft: true
 ---

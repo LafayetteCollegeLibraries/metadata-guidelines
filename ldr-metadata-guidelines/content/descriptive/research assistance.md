@@ -1,10 +1,10 @@
 ---
-title: "Resassist"
+title: "Research Assistance"
 date: 2021-07-09T11:12:44-07:00
 draft: true
 ---
 
-# Research Assistantce
+# Research Assistance
 
 | Condition  | Value |
 |-------------|---------------------------|

@@ -1,10 +1,10 @@
 ---
-title: "Reploc"
+title: "Repository Location"
 date: 2021-07-09T11:09:31-07:00
 draft: true
 ---
 
-# Relative Location
+# Repository Location
 
 | Condition  | Value |
 |-------------|---------------------------|

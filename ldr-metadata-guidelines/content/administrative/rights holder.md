@@ -1,5 +1,5 @@
 ---
-title: "Rightsholder"
+title: "Rights Holder"
 date: 2021-07-09T11:52:46-07:00
 draft: true
 ---

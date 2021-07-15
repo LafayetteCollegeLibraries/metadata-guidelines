@@ -16,4 +16,4 @@ draft: true
 
 Enter each language name into the box in the form and click to select the appropriate suggested value.
 
-<img src="/LDR_MetadataCreationGuidelines_Language.jpg" alt="Language form box">
+![Language form box](/LDR_MetadataCreationGuidelines_Language.jpg)

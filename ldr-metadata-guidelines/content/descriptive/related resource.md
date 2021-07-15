@@ -1,5 +1,5 @@
 ---
-title: "Relresource"
+title: "Related Resource"
 date: 2021-07-09T11:08:07-07:00
 draft: true
 ---

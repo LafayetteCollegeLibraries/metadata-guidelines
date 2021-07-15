@@ -1,5 +1,5 @@
 ---
-title: "Acadep"
+title: "Academic Department"
 date: 2021-07-08T12:59:57-07:00
 draft: true
 ---
