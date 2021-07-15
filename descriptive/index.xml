@@ -225,11 +225,11 @@ housed and made accessible.   Required? No   Repeatable? Yes    Guidelines #  Us
     </item>
     
     <item>
-      <title>Desc</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/desc/</link>
+      <title>Description</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/description/</link>
       <pubDate>Thu, 08 Jul 2021 15:35:03 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/desc/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/description/</guid>
       <description>Description #     Condition Value     Definition An account of the resource content.   Required? No   Repeatable? Yes    Guidelines #  In most cases, the item will have to be read or examined in order to determine a description of the content. The Description should contain details about the people, places, events, or themes depicted in or discussed by the resource.</description>
     </item>
     
