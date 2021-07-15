@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/stdid/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/standard-identifier/</loc>
     <lastmod>2021-07-10T09:45:58-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/rightsstatement/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/rights-statement/</loc>
     <lastmod>2021-07-09T11:55:14-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/rightsholder/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/rights-holder/</loc>
     <lastmod>2021-07-09T11:52:46-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/note/</loc>
@@ -29,25 +29,25 @@
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/source/</loc>
     <lastmod>2021-07-09T11:27:36-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/restype/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/resource-type/</loc>
     <lastmod>2021-07-09T11:14:44-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/resassist/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/research-assistance/</loc>
     <lastmod>2021-07-09T11:12:44-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/reqby/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/requested-by/</loc>
     <lastmod>2021-07-09T11:11:16-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/reploc/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/repository-location/</loc>
     <lastmod>2021-07-09T11:09:31-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/relresource/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/related-resource/</loc>
     <lastmod>2021-07-09T11:08:07-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/publisher/</loc>
     <lastmod>2021-07-09T11:04:29-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/physmed/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/physical-medium/</loc>
     <lastmod>2021-07-09T11:01:56-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/organization/</loc>
@@ -83,7 +83,7 @@
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/desc/</loc>
     <lastmod>2021-07-08T15:35:03-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/datascopenote/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/data-scope-note/</loc>
     <lastmod>2021-07-08T15:32:15-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/date/</loc>
@@ -95,16 +95,16 @@
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/contributor/</loc>
     <lastmod>2021-07-08T14:35:55-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/bibcite/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/bibliographic-citation/</loc>
     <lastmod>2021-07-08T13:48:39-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/alttitle/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/alternative-title/</loc>
     <lastmod>2021-07-08T13:42:28-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/asocdate/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/associated-date/</loc>
     <lastmod>2021-07-08T13:14:00-07:00</lastmod>
   </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/acadep/</loc>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/academic-department/</loc>
     <lastmod>2021-07-08T12:59:57-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative/</loc>

@@ -58,52 +58,52 @@ pledge, or financial contribution.   Required? No   Repeatable? Yes    Guideline
     </item>
     
     <item>
-      <title>Restype</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/restype/</link>
+      <title>Resource Type</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/resource-type/</link>
       <pubDate>Fri, 09 Jul 2021 11:14:44 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/restype/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/resource-type/</guid>
       <description>Resource Type #     Condition Value     Definition The nature or genre of the resource. Type terms describe general categories, functions, genres, or aggregation levels for content. Select at least one value from the local controlled vocabulary.   Required? Yes   Repeatable? Yes    Guidelines #  Choose one or more Resource Type values from the controlled list. Select the term or terms that best characterize or describes the resource.</description>
     </item>
     
     <item>
-      <title>Resassist</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/resassist/</link>
+      <title>Research Assistance</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/research-assistance/</link>
       <pubDate>Fri, 09 Jul 2021 11:12:44 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/resassist/</guid>
-      <description>Research Assistantce #     Condition Value     Definition Name of an agent for research in support of a resource.   Required? No   Repeatable? Yes    Guidelines #  For example, this field can be used to hold the names of College students and faculty
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/research-assistance/</guid>
+      <description>Research Assistance #     Condition Value     Definition Name of an agent for research in support of a resource.   Required? No   Repeatable? Yes    Guidelines #  For example, this field can be used to hold the names of College students and faculty
 responsible for metadata creation, translations, research, scanning, color correction, etc. It
 could also list names of experts who have provided content, criticisms, and other forms of</description>
     </item>
     
     <item>
-      <title>Reqby</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/reqby/</link>
+      <title>Requested By</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/requested-by/</link>
       <pubDate>Fri, 09 Jul 2021 11:11:16 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/reqby/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/requested-by/</guid>
       <description>Requested By #     Condition Value     Definition The faculty or community member that requested an item or
 collection (i.e. from Archives &amp;amp; Special Collections) be scanned
 and ingested into the repository.   Required? No   Repeatable? Yes    </description>
     </item>
     
     <item>
-      <title>Reploc</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/reploc/</link>
+      <title>Repository Location</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/repository-location/</link>
       <pubDate>Fri, 09 Jul 2021 11:09:31 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/reploc/</guid>
-      <description>Relative Location #     Condition Value     Definition Institution, organization, or collection where the original object is
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/repository-location/</guid>
+      <description>Repository Location #     Condition Value     Definition Institution, organization, or collection where the original object is
 housed and made accessible.   Required? No   Repeatable? Yes    Guidelines #  Use this property to contain information about the original location of the physical item, or the external repository where a digital resource may be stored.</description>
     </item>
     
     <item>
-      <title>Relresource</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/relresource/</link>
+      <title>Related Resource</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/related-resource/</link>
       <pubDate>Fri, 09 Jul 2021 11:08:07 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/relresource/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/related-resource/</guid>
       <description>Related Resource #     Condition Value     Definition Further information about another resource, which is related to the resource being described.   Required? No   Repeatable? Yes    Identify related resources with the title of the related materials, and include a unique identifier (such as a DOI or ISBN) and a permalink URI if one exists.
  Unless directed to do so by a project lead or supervisor, it is not necessary to conduct research to locate related resources.</description>
     </item>
@@ -119,11 +119,11 @@ housed and made accessible.   Required? No   Repeatable? Yes    Guidelines #  Us
     </item>
     
     <item>
-      <title>Physmed</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/physmed/</link>
+      <title>Physical Medium</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/physical-medium/</link>
       <pubDate>Fri, 09 Jul 2021 11:01:56 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/physmed/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/physical-medium/</guid>
       <description>Physical Medium #     Condition Value     Definition A physical material or carrier. Examples include paper, canvas, or DVD.   Required? No   Repeatable? No    Guidelines #  Use this property to describe the medium of the original physical resource from which the digital resource was derived, if applicable.
  NOT to be used to describe the file format of a digitized or born-digital resource.</description>
     </item>
@@ -234,11 +234,11 @@ housed and made accessible.   Required? No   Repeatable? Yes    Guidelines #  Us
     </item>
     
     <item>
-      <title>Datascopenote</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/datascopenote/</link>
+      <title>Data Scope Note</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/data-scope-note/</link>
       <pubDate>Thu, 08 Jul 2021 15:32:15 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/datascopenote/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/data-scope-note/</guid>
       <description>Date Scope Note #     Condition Value     Definition A note explaining the coverage, specialized usage, and/or rules for assigning the Date value.   Required? No   Repeatable? Yes    Guidelines #  When used in legacy EAIC collections, this property contains printed information on the backs of postcards, including indicia, that is relevant to dating the postcard itself (not the image reproduced in that postcard).</description>
     </item>
     
@@ -273,40 +273,40 @@ housed and made accessible.   Required? No   Repeatable? Yes    Guidelines #  Us
     </item>
     
     <item>
-      <title>Bibcite</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/bibcite/</link>
+      <title>Bibliographic Citation</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/bibliographic-citation/</link>
       <pubDate>Thu, 08 Jul 2021 13:48:39 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/bibcite/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/bibliographic-citation/</guid>
       <description>Bibliographic Citation #     Condition Value     Definition A bibliographic reference for the resource. Information about a serial or about a resource from which the current Work (e.g. a book chapter) is derived.   Required? No   Repeatable? Yes    Guidelines #  Take the Citation directly from the source if possible. For example, many Citations for academic journal articles are supplied by the publisher on a title page, in a page header or footer, or in accompanying or supplemental information.</description>
     </item>
     
     <item>
-      <title>Alttitle</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/alttitle/</link>
+      <title>Alternative Title</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/alternative-title/</link>
       <pubDate>Thu, 08 Jul 2021 13:42:28 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/alttitle/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/alternative-title/</guid>
       <description>Alternative Title #     Condition Value     Definition An alternative name for the resource. Any form of the title used as a substitute or alternative to the formal title of the resource. (DCMI )   Required? No   Repeatable? Yes    Guidelines #  Use for other forms of the title.
   For example, use for versions of the title in languages other than English.</description>
     </item>
     
     <item>
-      <title>Asocdate</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/asocdate/</link>
+      <title>Associated Date</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/associated-date/</link>
       <pubDate>Thu, 08 Jul 2021 13:14:00 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/asocdate/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/associated-date/</guid>
       <description>Associated Date #     Condition Value     Definition Additional date(s) associated with the resource.   Required? No   Repeatable? Yes    Guidelines #    When used in legacy EAIC collections, this property refers to the date of an event documented in the photographic image, and later reproduced in an album or postcard.
   Record the associated date in ISO 8601 /EDTF  format.</description>
     </item>
     
     <item>
-      <title>Acadep</title>
-      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/acadep/</link>
+      <title>Academic Department</title>
+      <link>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/academic-department/</link>
       <pubDate>Thu, 08 Jul 2021 12:59:57 -0700</pubDate>
       
-      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/acadep/</guid>
+      <guid>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive/academic-department/</guid>
       <description>Academic Department #     Condition Value     Definition A unit within a larger organization that addresses a specific subject or area of activity.   Required? No   Repeatable? Yes    Guidelines #  This property is intended for use with faculty, staff, and institutional publications, administrative materials, etc.
   Along with the Division and Institution properties, this value provides a consistent reference to the unit that is responsible for the creation or authorship of the resource.</description>
     </item>
