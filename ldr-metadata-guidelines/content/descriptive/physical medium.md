@@ -19,6 +19,7 @@ Use this property to describe the medium of the original physical resource from 
 - NOT to be used to describe the file format of a digitized or born-digital resource. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; If a resource is born-digital, leave this property blank.
 
-| Examples:      |
-| ----------- |
-| silver gelatin print<br>microfiche<br>tempera on canvas      |
+## Examples
+- silver gelatin print
+- microfiche
+- tempera on canvas

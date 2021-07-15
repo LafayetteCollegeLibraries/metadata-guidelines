@@ -20,6 +20,9 @@ draft: true
 
 - When describing physical size, always include the unit of measurement.
 
-| Examples:      |
-| ----------- |
-| 1 print : image 31.1 x 22.4 cm., on mount 31.7 x 23.2 cm.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06:18:57<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24 x 19.5 cm.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.4 MB      |
+## Examples
+
+- 1 print : image 31.1 x 22.4 cm., on mount 31.7 x 23.2 cm.
+- 06:18:57
+- 24 x 19.5 cm.
+- 14.4 MB

@@ -15,7 +15,7 @@ headless: true
   - [Creator]({{< relref "descriptive/creator" >}})
   - [Date]({{< relref "descriptive/date" >}})
   - [Date Scope Note]({{< relref "descriptive/data scope note" >}})
-  - [Description]({{< relref "descriptive/desc" >}})
+  - [Description]({{< relref "descriptive/description" >}})
   - [Division]({{< relref "descriptive/division" >}})
   - [Donor]({{< relref "descriptive/donor" >}})
   - [Editor]({{< relref "descriptive/editor" >}})

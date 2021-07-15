@@ -1,5 +1,5 @@
 ---
-title: "Desc"
+title: "Description"
 date: 2021-07-08T15:35:03-07:00
 draft: true
 ---
@@ -24,6 +24,6 @@ Some best practices for writing item descriptions include:
 
 - For serials (such as items in the newspaper, magazine, and student publication collections), a generic description of the content in the series can be used in each item metadata record.
 
-| Example:      |
-| ----------- |
-| A digital archive of the Lafayette College student newspaper (Easton, Pennsylvania).      |
+## Example
+
+A digital archive of the Lafayette College student newspaper (Easton, Pennsylvania).

@@ -12,7 +12,7 @@ draft: true
 | Required?   | No                        |
 | Repeatable? | Yes                        |
 
-# Guidelines
+## Guidelines
 
 - Record the date in <u>[ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)</u>/<u>[EDTF](https://www.loc.gov/standards/datetime/)</u> format. \
 &rarr; The LDR application will display EDTF date in a human-readable format in the
@@ -21,6 +21,8 @@ draft: true
  -  For published materials, use the **Issued** property instead.
 
  -  Avoid using abbreviations or Latin terms for dates.
+
+## Examples
 
  | Encoding      | Date field value (encoded EDTF) | Display Date |
  | ----------- | ----------- | ----------- |

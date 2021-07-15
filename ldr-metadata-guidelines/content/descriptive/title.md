@@ -26,12 +26,16 @@ Every work in the LDR must have one value in the Title property.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Panoramic View of the Imperial Palace, Kyoto] \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[McKelvy House: Gardens]
 
-| For items in the Newspaper collection use the following formula:      |
-| ----------- |
-| &rarr; The Lafayette, Month Day, Year<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example:** The Lafayette, November 15, 2019      |
+<br />
+
+### For items in the Newspaper collection use the following formula:
+- The Lafayette, Month Day, Year
+  - **Example:** The Lafayette, November 15, 2019
+
+<br />
 
 - Use the Alternative Title property for other forms of the title (*e.g.* for versions of the title in languages other than English).
 
-- Language-tagged Field \
-&rarr; Use the box to the right of the property in the Work dashboard to enter the language of the Title value \
-&rarr; Select the language from the generated list. The language value will be stored as an ISO 639-1 (two letter) code.
+- Language-tagged Field
+  - Use the box to the right of the property in the Work dashboard to enter the language of the Title value
+  - Select the language from the generated list. The language value will be stored as an ISO 639-1 (two letter) code.

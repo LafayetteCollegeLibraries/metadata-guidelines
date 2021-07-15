@@ -19,6 +19,8 @@ draft: true
 - Write dates Year-Month-Day, separating the sections with a hyphen \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; If only partial dates are known, follow the same basic format:
 
-| Examples:      |
-| ----------- |
-| YYYY-MM-DD<br>YYYY-MM<br>YYYY      |
+## Examples
+
+- YYYY-MM-DD
+- YYYY-MM
+- YYYY

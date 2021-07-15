@@ -21,6 +21,8 @@ draft: true
 
 - Avoid using abbreviations or Latin terms for dates.
 
+## Examples
+
 | Encoding      | Date field value (encoded EDTF) | Display Date |
 | ----------- | ----------- | ----------- |
 | yyyy     | 1861       | 1861       |

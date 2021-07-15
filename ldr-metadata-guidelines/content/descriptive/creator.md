@@ -32,7 +32,7 @@ Creators include any entity that was centrally involved in creating the item.
 &rarr; include multiple parts (*e.g.* von, de la) as part of the last name \
 &rarr; include all parts of a hyphenated name as the last name
 
-Some suggestions as to where Creator information can be found:
+### Some suggestions as to where Creator information can be found:
 
 | Item Type      | Information Sources |
 | ----------- | ----------- |
