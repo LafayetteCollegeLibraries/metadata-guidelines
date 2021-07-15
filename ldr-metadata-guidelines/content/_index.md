@@ -23,4 +23,4 @@ What is administrative metadata? Administrative metadata provides information th
 
 {{< /columns >}}
 
-[Get started here]({{< relref "gettingstarted/" >}}) or choose a metadata field from the table of contents.
+[Get started here]({{< relref "getting started/" >}}) or choose a metadata field from the table of contents.
