@@ -10,4 +10,4 @@ draft: false
 
 Enter each language name into the box in the form and click to select the appropriate suggested value.
 
-![Language form box](/LDR_MetadataCreationGuidelines_Language.jpg)
+![Language form box]({{< img "LDR_MetadataCreationGuidelines_Language.jpg" >}})

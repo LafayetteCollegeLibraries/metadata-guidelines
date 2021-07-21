@@ -14,7 +14,7 @@ draft: false
 
 - From the Work dashboard, use the drop-down menu to select a prefix for the identifier. Then, enter the identifier into the form box at right.
 
-<img src="/LDR_MetadataCreationGuidelines_StdID.jpg" alt="Standard identifier drop down menu">
+![Standard identifier drop down menu]({{< img "LDR_MetadataCreationGuidelines_StdID.jpg" >}})
 
 - Handles are minted by a server attached to the repository application
   - A Handle ID will be created for all new items added to the LDR
