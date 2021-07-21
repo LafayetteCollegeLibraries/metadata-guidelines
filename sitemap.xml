@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/</loc>
+    <lastmod>2021-07-10T09:45:58-07:00</lastmod>
+  </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/standard-identifier/</loc>
     <lastmod>2021-07-10T09:45:58-07:00</lastmod>
   </url><url>
@@ -13,6 +16,9 @@
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/note/</loc>
     <lastmod>2021-07-09T11:51:29-07:00</lastmod>
+  </url><url>
+    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive-metadata/</loc>
+    <lastmod>2021-07-09T11:39:23-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive-metadata/title/</loc>
     <lastmod>2021-07-09T11:39:23-07:00</lastmod>
@@ -106,12 +112,6 @@
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive-metadata/academic-department/</loc>
     <lastmod>2021-07-08T12:59:57-07:00</lastmod>
-  </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/administrative-metadata/</loc>
-    <lastmod>2021-07-07T14:09:46-07:00</lastmod>
-  </url><url>
-    <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/descriptive-metadata/</loc>
-    <lastmod>2021-07-07T14:08:03-07:00</lastmod>
   </url><url>
     <loc>https://lafayettecollegelibraries.github.io/metadata-guidelines/getting-started/</loc>
     <lastmod>2021-07-07T13:45:00-07:00</lastmod>
