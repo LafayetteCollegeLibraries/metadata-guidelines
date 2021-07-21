@@ -1,16 +1,10 @@
 ---
 title: "Publisher"
 date: 2021-07-09T11:04:29-07:00
+definition: "An entity responsible for making the resource available. The publisher of the original work."
+repeatable: true
 draft: true
 ---
-
-# Publisher
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |  An entity responsible for making the resource available. The publisher of the original work. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

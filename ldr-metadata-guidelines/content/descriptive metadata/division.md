@@ -1,16 +1,10 @@
 ---
 title: "Division"
 date: 2021-07-08T15:38:57-07:00
+definition: "A major unit or section within a larger organization."
+repeatable: true
 draft: true
 ---
-
-# Division
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |  A major unit or section within a larger organization. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

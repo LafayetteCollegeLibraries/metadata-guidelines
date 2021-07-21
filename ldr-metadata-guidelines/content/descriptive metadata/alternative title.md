@@ -1,16 +1,10 @@
 ---
 title: "Alternative Title"
 date: 2021-07-08T13:42:28-07:00
+definition: "An alternative name for the resource. Any form of the title used as a substitute or alternative to the formal title of the resource."
+repeatable: true
 draft: true
 ---
-
-# Alternative Title
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  | An alternative name for the resource. Any form of the title used as a substitute or alternative to the formal title of the resource. (<u>[DCMI](http://purl.org/dc/terms/alternative)</u>) |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

@@ -1,16 +1,10 @@
 ---
 title: "Academic Department"
 date: 2021-07-08T12:59:57-07:00
+definition: "A unit within a larger organization that addresses a specific subject or area of activity."
+repeatable: true
 draft: true
 ---
-
-# Academic Department
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  | A unit within a larger organization that addresses a specific subject or area of activity. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 This property is intended for use with faculty, staff, and institutional publications, administrative materials, etc.

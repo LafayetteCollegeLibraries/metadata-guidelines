@@ -1,16 +1,10 @@
 ---
 title: "Note"
 date: 2021-07-09T11:51:29-07:00
+definition: "A property for information that cannot be entered or does not fit well in other elements and is intended for internal users only."
+repeatable: true
 draft: true
 ---
-
-# Note
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |    A property for information that cannot be entered or does not fit well in other elements and is intended for internal users only. |
-| Required?   | No                      |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

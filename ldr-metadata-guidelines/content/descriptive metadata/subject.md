@@ -1,16 +1,10 @@
 ---
 title: "Subject"
 date: 2021-07-09T11:31:30-07:00
+definition: "Formal, controlled subject terms or headings that describe the people, organizations, events, themes, or topics of the resource."
+repeatable: true
 draft: true
 ---
-
-# Subject
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |    Formal, controlled subject terms or headings that describe the people, organizations, events, themes, or topics of the resource. |
-| Required?   | No                       |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

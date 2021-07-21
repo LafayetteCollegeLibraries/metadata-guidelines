@@ -1,16 +1,10 @@
 ---
 title: "Rights Statement"
 date: 2021-07-09T11:55:14-07:00
+definition: "Rights statements express the copyright status of a Digital Object, as well as information about how you can access and re-use the objects."
+repeatable: true
 draft: true
 ---
-
-# Rights Statement
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |    Rights statements express the copyright status of a Digital Object, as well as information about how you can access and re-use the objects. |
-| Required?   | **Yes**                      |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 
@@ -22,7 +16,7 @@ draft: true
 
 - All Creative Commons licenses can only be applied by, or with the permission of, the rights holder. The rights holder may be the author, co-authors, publisher, or other person or entities related to the item.
 
-The following Right Statements are available in the LDR:
+### The following Right Statements are available in the LDR:
 
 | Rights Statement Label      | Description* |
 | ----------- | ----------- |

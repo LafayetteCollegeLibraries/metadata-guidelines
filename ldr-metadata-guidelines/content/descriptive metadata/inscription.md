@@ -1,16 +1,10 @@
 ---
 title: "Inscription"
 date: 2021-07-09T10:02:10-07:00
+definition: "Text of an inscription on the object"
+repeatable: true
 draft: true
 ---
-
-# Inscription
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |  Text of an inscription on the object |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

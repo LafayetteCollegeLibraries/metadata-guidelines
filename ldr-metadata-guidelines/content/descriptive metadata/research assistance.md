@@ -1,16 +1,10 @@
 ---
 title: "Research Assistance"
 date: 2021-07-09T11:12:44-07:00
+definition: "Name of an agent for research in support of a resource."
+repeatable: true
 draft: true
 ---
-
-# Research Assistance
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |   Name of an agent for research in support of a resource. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

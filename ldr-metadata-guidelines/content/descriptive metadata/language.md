@@ -1,16 +1,10 @@
 ---
 title: "Language"
 date: 2021-07-09T10:25:20-07:00
+definition: "A language of the resource content."
+repeatable: true
 draft: true
 ---
-
-# Language
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |  A language of the resource content. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

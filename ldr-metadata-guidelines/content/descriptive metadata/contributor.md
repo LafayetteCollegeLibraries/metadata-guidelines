@@ -1,14 +1,10 @@
 ---
 title: "Contributor"
 date: 2021-07-08T14:35:55-07:00
+definition: "An entity (person, organization, etc.) that has performed an important but secondary role in creating the content of the work, and is not specified in the Creator or Editor elements."
+repeatable: true
 draft: true
 ---
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  | An entity (person, organization, *etc.*) that has performed an important but secondary role in creating the content of the work, and is not specified in the Creator or Editor elements. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

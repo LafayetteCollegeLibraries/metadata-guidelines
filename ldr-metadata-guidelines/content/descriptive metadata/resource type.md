@@ -1,16 +1,11 @@
 ---
 title: "Resource Type"
 date: 2021-07-09T11:14:44-07:00
+definition: "The nature or genre of the resource. Type terms describe general categories, functions, genres, or aggregation levels for content. Select at least one value from the local controlled vocabulary."
+required: true
+repeatable: true
 draft: true
 ---
-
-# Resource Type
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |   The nature or genre of the resource. Type terms describe general categories, functions, genres, or aggregation levels for content. Select at least one value from the local controlled vocabulary. |
-| Required?   | **Yes**                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

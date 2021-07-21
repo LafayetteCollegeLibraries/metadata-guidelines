@@ -1,16 +1,10 @@
 ---
 title: "Source"
 date: 2021-07-09T11:27:36-07:00
+definition: "A related resource from which the described resource is derived."
+repeatable: true
 draft: true
 ---
-
-# Source
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |   A related resource from which the described resource is derived. |
-| Required?   | No                       |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

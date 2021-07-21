@@ -1,16 +1,10 @@
 ---
 title: "Keyword"
 date: 2021-07-09T10:15:23-07:00
+definition: "Words or tags used to describe what the content is about. Keywords use natural language; they do not conform to any controlled vocabulary or subject heading classification."
+repeatable: true
 draft: true
 ---
-
-# Keyword
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |  Words or tags used to describe what the content is about. Keywords use natural language; they do not conform to any controlled vocabulary or subject heading classification. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

@@ -1,16 +1,10 @@
 ---
 title: "Extent"
 date: 2021-07-08T15:56:25-07:00
+definition: "The dimensions of the resource, e.g. physical or digital size, duration."
+repeatable: true
 draft: true
 ---
-
-# Extent
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |  The dimensions of the resource, e.g. physical or digital size, duration. |
-| Required?   | No                        |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

@@ -1,16 +1,10 @@
 ---
 title: "Sponsor"
 date: 2021-07-09T11:29:53-07:00
+definition: "A person or organization that supports the collection, e.g. through a pledge, or financial contribution."
+repeatable: true
 draft: true
 ---
-
-# Sponsor
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |    A person or organization that supports the collection, *e.g.* through a<br>pledge, or financial contribution. |
-| Required?   | No                       |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

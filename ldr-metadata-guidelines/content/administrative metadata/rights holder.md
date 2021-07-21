@@ -1,16 +1,10 @@
 ---
 title: "Rights Holder"
 date: 2021-07-09T11:52:46-07:00
+definition: "A person or organization owning or managing rights over the resource."
+repeatable: true
 draft: true
 ---
-
-# Rights Holder
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |    A person or organization owning or managing rights over the resource. |
-| Required?   | No                      |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 

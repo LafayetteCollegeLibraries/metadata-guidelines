@@ -1,16 +1,11 @@
 ---
 title: "Title"
 date: 2021-07-09T11:39:23-07:00
+definition: "The name given to the resource."
+required: true
+repeatable: true
 draft: true
 ---
-
-# Title
-
-| Condition  | Value |
-|-------------|---------------------------|
-| Definition  |    The name given to the resource. <u>([DCMI](http://purl.org/dc/elements/1.1/title))</u> |
-| Required?   | **Yes**                      |
-| Repeatable? | Yes                        |
 
 ## Guidelines
 
