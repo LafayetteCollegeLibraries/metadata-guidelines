@@ -3,7 +3,7 @@ title: "Alternative Title"
 date: 2021-07-08T13:42:28-07:00
 definition: "An alternative name for the resource. Any form of the title used as a substitute or alternative to the formal title of the resource."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

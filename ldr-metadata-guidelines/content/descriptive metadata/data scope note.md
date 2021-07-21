@@ -3,7 +3,7 @@ title: "Data Scope Note"
 date: 2021-07-08T15:32:15-07:00
 definition: "A note explaining the coverage, specialized usage, and/or rules for assigning the Date value."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

@@ -3,7 +3,7 @@ title: "Organization"
 date: 2021-07-09T10:59:49-07:00
 definition: "A kind of Agent corresponding to social institutions such as companies, colleges, universities, historical societies, museums, etc."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

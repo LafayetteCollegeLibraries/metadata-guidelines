@@ -3,7 +3,7 @@ title: "Repository Location"
 date: 2021-07-09T11:09:31-07:00
 definition: "Institution, organization, or collection where the original object is housed and made accessible."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

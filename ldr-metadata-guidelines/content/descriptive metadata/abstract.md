@@ -2,7 +2,7 @@
 title: "Abstract"
 date: 2021-07-07T13:29:08-07:00
 definition: "A summary of the resource"
-draft: true
+draft: false
 ---
 
 ## Guidelines

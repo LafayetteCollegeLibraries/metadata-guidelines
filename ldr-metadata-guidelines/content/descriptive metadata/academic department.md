@@ -3,7 +3,7 @@ title: "Academic Department"
 date: 2021-07-08T12:59:57-07:00
 definition: "A unit within a larger organization that addresses a specific subject or area of activity."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

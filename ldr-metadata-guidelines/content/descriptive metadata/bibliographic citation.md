@@ -3,7 +3,7 @@ title: "Bibliographic Citation"
 date: 2021-07-08T13:48:39-07:00
 definition: "A bibliographic reference for the resource. Information about a serial or about a resource from which the current Work (e.g. a book chapter) is derived."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

@@ -3,7 +3,7 @@ title: "Rights Statement"
 date: 2021-07-09T11:55:14-07:00
 definition: "Rights statements express the copyright status of a Digital Object, as well as information about how you can access and re-use the objects."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

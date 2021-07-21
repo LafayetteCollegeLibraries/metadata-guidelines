@@ -3,7 +3,7 @@ title: "Editor"
 date: 2021-07-08T15:53:31-07:00
 definition: "A person having managerial and sometimes policy-making responsibility for the editorial part of a publishing firm or of a newspaper, magazine, or other publication."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

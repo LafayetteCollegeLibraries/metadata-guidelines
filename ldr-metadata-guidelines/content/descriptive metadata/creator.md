@@ -3,7 +3,7 @@ title: "Creator"
 date: 2021-07-08T14:51:23-07:00
 definition: "A person, agency, organization or other entity primarily responsible for creating the intellectual content of the resource."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2021-07-01T13:39:37-07:00
-draft: true
+draft: false
 ---
 
 # Welcome!

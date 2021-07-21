@@ -3,7 +3,7 @@ title: "Subtitle"
 date: 2021-07-09T11:37:49-07:00
 definition: "An explanatory title of a publication."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

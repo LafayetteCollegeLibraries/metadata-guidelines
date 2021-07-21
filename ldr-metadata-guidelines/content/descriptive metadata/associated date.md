@@ -3,7 +3,7 @@ title: "Associated Date"
 date: 2021-07-08T13:14:00-07:00
 definition: "Additional date(s) associated with the resource."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

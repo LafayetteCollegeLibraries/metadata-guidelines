@@ -2,7 +2,7 @@
 title: "Standard Identifier"
 date: 2021-07-10T09:45:58-07:00
 definition: "A URL or string conforming to a formal identification system, which provides an unambiguous reference to the resource."
-draft: true
+draft: false
 ---
 
 ## Guidelines

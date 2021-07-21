@@ -4,7 +4,7 @@ date: 2021-07-09T11:39:23-07:00
 definition: "The name given to the resource."
 required: true
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

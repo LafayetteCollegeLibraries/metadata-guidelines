@@ -3,7 +3,7 @@ title: "Date"
 date: 2021-07-08T15:27:35-07:00
 definition: "Date associated with the creation of the original resource."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

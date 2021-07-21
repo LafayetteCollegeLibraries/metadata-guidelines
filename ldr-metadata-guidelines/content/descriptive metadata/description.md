@@ -3,7 +3,7 @@ title: "Description"
 date: 2021-07-08T15:35:03-07:00
 definition: "An account of the resource content."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

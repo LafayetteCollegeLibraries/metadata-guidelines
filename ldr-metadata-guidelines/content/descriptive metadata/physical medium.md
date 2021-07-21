@@ -2,7 +2,7 @@
 title: "Physical Medium"
 date: 2021-07-09T11:01:56-07:00
 definition: "A physical material or carrier. Examples include paper, canvas, or DVD."
-draft: true
+draft: false
 ---
 
 ## Guidelines

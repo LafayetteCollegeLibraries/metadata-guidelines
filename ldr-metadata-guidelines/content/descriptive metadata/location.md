@@ -3,7 +3,7 @@ title: "Location"
 date: 2021-07-09T10:48:06-07:00
 definition: "Spatial characteristics and/or cover of the resource content. Spatial topic and spatial applicability may be a named place or a location specified by its geographic coordinates."
 repeatable: true
-draft: true
+draft: false
 ---
 
 ## Guidelines

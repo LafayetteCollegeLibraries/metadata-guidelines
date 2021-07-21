@@ -4,7 +4,7 @@ date: 2021-07-09T10:04:22-07:00
 definition: "Date of formal issuance (e.g. publication) of the resource"
 required: true
 repeatable: true
-draft: true
+draft: false
 ---
 
 <strong>Required for Publication data model resources.</strong>
