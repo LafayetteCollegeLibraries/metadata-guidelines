@@ -1,0 +1,19 @@
+<h1 id="title">{{ .Title }}</h1>
+<h2 id="definition">Definition</h2>
+<p>{{ $.Params.definition }}</p>
+
+<h2 id="required">Required?</h2>
+{{ if $.Params.required }}
+  <p><strong>Yes</strong></p>
+{{ else }}
+  <p>No</p>
+{{ end }}
+
+<h2 id="repeatable">Repeatable?</h2>
+{{ if $.Params.repeatable }}
+  <p>Yes</p>
+{{ else }}
+  <p>No</p>
+{{ end }}
+
+<br />
