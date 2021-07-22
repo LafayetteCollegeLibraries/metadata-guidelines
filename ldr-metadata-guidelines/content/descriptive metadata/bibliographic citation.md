@@ -12,10 +12,9 @@ Take the Citation directly from the source if possible. For example, many Citati
 
 - Enter the Citation exactly as it appears in the source.
 
-- If no Citation is supplied by the publisher, use the following format: \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Author LastName, Author FirstName. Publication Date, “Title.” Publication
-Title, Volume: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Issue, Page Range.**
+- If no Citation is supplied by the publisher, use the following format:
+  - **Author LastName, Author FirstName. Publication Date, “Title.” Publication Title, Volume: Issue, Page Range.**
 
--  For values expressed by numbers (for example pages, volume, issue), include only digits and not text. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Correct:** 10: 4, 135-140 \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Not correct:** Vol. 10: Issue 4, pages 135-140
+- For values expressed by numbers (for example pages, volume, issue), include only digits and not text.
+  - **Correct:** 10: 4, 135-140
+  - **Not correct:** Vol. 10: Issue 4, pages 135-140

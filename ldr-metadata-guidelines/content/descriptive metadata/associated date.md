@@ -10,8 +10,8 @@ draft: false
 
 - When used in legacy EAIC collections, this property refers to the date of an event documented in the photographic image, and later reproduced in an album or postcard.
 
-- Record the associated date in <u>[ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)</u>/<u>[EDTF](https://www.loc.gov/standards/datetime/)</u> format. \
-&rarr; The LDR application will display EDTF date in a human-readable format in the public-facing user interface.
+- Record the associated date in <u>[ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)</u>/<u>[EDTF](https://www.loc.gov/standards/datetime/)</u> format.
+  - The LDR application will display EDTF date in a human-readable format in the public-facing user interface.
 
 - Avoid using abbreviations or Latin terms for dates.
 

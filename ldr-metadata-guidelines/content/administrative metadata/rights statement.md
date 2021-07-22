@@ -41,4 +41,4 @@ draft: false
 | <u>[Copyright Undetermined (UND)](http://rightsstatements.org/vocab/UND/1.0/)</u>   | The copyright status of the item has been reviewed, but we were unable to conclusively determine the status. The user may need to obtain other permission depending on their intended use of the item. For Faculty publications, where the copyright status of a resource is undetermined, always apply the <u>[In Copyright (InC)](http://rightsstatements.org/vocab/InC/1.0/)</u> rights statement.        |
 | <u>[No Known Copyright (NKC)](http://rightsstatements.org/vocab/NKC/1.0/)</u>   | The copyright status of the item has been reviewed, and although we reasonably believe that the item isn’t restricted by copyright or other related (*e.g.* Moral) rights, this couldn’t be determined conclusively. The user may need to obtain other permission depending on their intended use of the item.        |
 
-*source: <u>[Europeana](https://pro.europeana.eu/page/available-rights-statements)</u>
+<div style="text-align:right"> *source: <u><a href="https://pro.europeana.eu/page/available-rights-statements">Europeana</a></u> </div>

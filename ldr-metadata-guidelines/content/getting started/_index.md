@@ -17,19 +17,19 @@ There is a general template available for creating batch metadata for resources 
 - **<u>Leave blank</u>** any non-required properties for which there is no available data. \
 **DO NOT** use a question mark, or terms such as “unknown” or “n/a”
 
-- When entering multiple values to a single property (for example assigning multiple keywords or multiple creators to an item), separate each value with a pipe | character \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example of using multiple keywords:** emotion|autobiographical memory \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example of multiple creators:** Lantz, K.|Jones, S. A.
+- When entering multiple values to a single property (for example assigning multiple keywords or multiple creators to an item), separate each value with a pipe | character
+  - **Example of using multiple keywords:** emotion|autobiographical memory
+  - **Example of multiple creators:** Lantz, K.|Jones, S. A.
 
-- **DO NOT** use ampersands ("&") unless it is part of a proper name or logo. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Example of a proper name:** A&P supermarkets
+- **DO NOT** use ampersands ("&") unless it is part of a proper name or logo.
+  - **Example of a proper name:** A&P supermarkets
 
 - **Avoid** using abbreviations in your data entry. Writing out full words improves item discoverability and prevents confusion.
 
-- When entering a personal name: \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; use the name format **Last, First Middle** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; include multiple parts (*e.g.* von, de la) as part of the last name \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; include all parts of a hyphenated name as the last name
+- When entering a personal name:
+  - use the name format **Last, First Middle**
+  - include multiple parts (*e.g.* von, de la) as part of the last name
+  - include all parts of a hyphenated name as the last name
 
 - Digital projects conducted under the supervision of Faculty or Archives & Special Collections may have additional, supplementary metadata creation guidelines.
 

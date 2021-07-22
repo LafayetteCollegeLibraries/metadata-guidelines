@@ -10,5 +10,5 @@ draft: false
 
 - Establishing the identity of the Rights Holders of an item helps when a user has a question about use, reproduction, or whom to contact regarding copyright of the item.
 
-- When entering a personal name: \
-&nbsp;&nbsp;&nbsp;&nbsp;&rarr; use the name format **Last, First Middle**
+- When entering a personal name:
+  - use the name format **Last, First Middle**

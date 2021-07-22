@@ -13,8 +13,8 @@ draft: false
 
 - Use for published materials, e.g. articles, book chapters
 
-- Write dates Year-Month-Day, separating the sections with a hyphen \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; If only partial dates are known, follow the same basic format:
+- Write dates Year-Month-Day, separating the sections with a hyphen
+  - If only partial dates are known, follow the same basic format:
 
 ## Examples
 

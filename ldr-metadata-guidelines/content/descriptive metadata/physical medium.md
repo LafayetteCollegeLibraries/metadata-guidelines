@@ -9,8 +9,8 @@ draft: false
 
 Use this property to describe the medium of the original physical resource from which the digital resource was derived, if applicable.
 
-- NOT to be used to describe the file format of a digitized or born-digital resource. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; If a resource is born-digital, leave this property blank.
+- NOT to be used to describe the file format of a digitized or born-digital resource.
+  - If a resource is born-digital, leave this property blank.
 
 ## Examples
 - silver gelatin print

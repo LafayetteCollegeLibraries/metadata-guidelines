@@ -10,8 +10,8 @@ draft: false
 
 Use for other forms of the title.
 
-- For example, use for versions of the title in languages other than English. \
-&rarr; Use the box to the right of the property in the Work dashboard to enter the language of the Title value
+- For example, use for versions of the title in languages other than English. 
+  - Use the box to the right of the property in the Work dashboard to enter the language of the Title value
 
 - If the resource is an article or book chapter derived from a monograph series, use **Alternative Title** to contain the monograph series title.
 

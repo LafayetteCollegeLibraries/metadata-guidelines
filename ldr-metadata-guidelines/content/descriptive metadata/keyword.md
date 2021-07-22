@@ -14,8 +14,8 @@ In many cases, the item must be read or examined in order to determine appropria
 
 - Use plural forms of keywords, unless there isn’t a logical plural form
 
-- Keep keywords or phrases short \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; remove unnecessary articles \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; economize word order to make phrases as concise as possible
+- Keep keywords or phrases short
+  - remove unnecessary articles
+  - economize word order to make phrases as concise as possible
 
 - Use publisher- and/or author-supplied keywords when available for faculty content
