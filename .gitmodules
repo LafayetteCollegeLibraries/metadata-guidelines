@@ -1,4 +1,4 @@
 
 [submodule "ldr-metadata-guidelines/themes/book"]
 	path = ldr-metadata-guidelines/themes/book
-	url = https://github.com/jacksodl23/hugo-book
+	url = git@github.com-jacksodl23:jacksodl23/hugo-book.git
