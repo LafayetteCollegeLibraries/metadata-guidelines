@@ -4,6 +4,7 @@ date: 2021-07-09T11:39:23-07:00
 definition: "The name given to the resource."
 required: true
 repeatable: true
+dcmi: "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/title"
 draft: false
 ---
 
