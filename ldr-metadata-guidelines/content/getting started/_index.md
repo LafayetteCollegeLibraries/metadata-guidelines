@@ -58,4 +58,4 @@ e-mail: malantoa@lafayette.edu
 
 {{< /columns >}}
 
-This website was made with ❤️ by Deja Jackson.
+This website was made with ❤️ by Deja Jackson '23.
