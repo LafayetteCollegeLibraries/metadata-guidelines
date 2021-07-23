@@ -57,3 +57,5 @@ ph: (610) 330-5156 \
 e-mail: malantoa@lafayette.edu
 
 {{< /columns >}}
+
+This website was made with ❤️ by Deja Jackson.
