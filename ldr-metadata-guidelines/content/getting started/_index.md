@@ -38,7 +38,7 @@ There is a general template available for creating batch metadata for resources 
 Contact the Digital Repository Librarian with questions about metadata creation.
 Contact the Digital Initiatives Developer with questions about metadata ingest workflows.
 
-## Contact Information
+### Contact Information
 
 {{< columns >}}
 
